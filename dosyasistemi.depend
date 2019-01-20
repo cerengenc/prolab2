@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542307153 source:c:\users\Ýlkim\desktop\codeblocks\dosyasistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
